@@ -1,4 +1,4 @@
-Our lastest ICICLE CI Components Release [2024-09](https://nowlab.cse.ohio-state.edu/register/software/).
+Our lastest ICICLE CI Components Release [2024-12](https://nowlab.cse.ohio-state.edu/register/software/).
 
 Subscribe to our mailing list [icicle-announce](https://lists.osu.edu/mailman/listinfo/icicle-announce) to stay up to date on the latest ICICLE news and releases.
 
